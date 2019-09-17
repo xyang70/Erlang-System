@@ -1,4 +1,4 @@
 # Erlang-System
 
 A prototype system which helps vision impaired people to walk safely. This project uses computer vision and object recognition.
-https://youtu.be/0ijuuQmwghw
+Demo https://youtu.be/0ijuuQmwghw
